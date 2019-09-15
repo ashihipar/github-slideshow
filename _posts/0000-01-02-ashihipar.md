@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Exit pursued by a bear
 Use the left arrow to go back!
